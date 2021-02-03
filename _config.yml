@@ -1,5 +1,5 @@
 # Site settings
-title: Krzysztof Sękowski personal homepage
+title:
 baseurl: ""
 url: "https://k-sekowski.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
