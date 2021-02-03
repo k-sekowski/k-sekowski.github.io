@@ -3,8 +3,6 @@ layout: post
 title: Publications
 ---
 
-## Publications
-
 (2019) Analiza empirycznych argumentów na rzecz tezy o zróżnicowaniu kulturowym
 intuicji epistemicznych (An analysis of empirical arguments for the thesis on
 cultural diversity of epistemic intuitions) (in polish), „Studia Philosophica
