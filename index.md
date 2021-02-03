@@ -3,24 +3,13 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I’m a PhD student at the Doctoral School of Humanities, University of Warsaw. I’m also a member of <a href="http://kognilab.pl/wordpress/en/laboratory-of-experimental-philosophy-kognilab/">Laboratory of Experimental Philosophy „Kognilab”</a>.
+
+My research interests include metaphilosophy, epistemology, philosophy of language, philosophy of mind, and philosophy of cognitive science. In particular I’m interested in the role of intuitions in the philosophical methodology, the relation between philosophical methodology and methodology of science and the concept of a priori knowledge. What connects all of the above is a big question about the impact of the cultural background to the results of philosophical and scientific activity.  
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Current Projects
 
-<br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+<br/> 
