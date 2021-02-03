@@ -3,6 +3,10 @@ layout: about
 ---
 
 <br/>
+
+# About me
+
+
 I’m a PhD student at the Doctoral School of Humanities, University of Warsaw. I’m also a member of <a target="_blank" href="http://kognilab.pl/wordpress/en/laboratory-of-experimental-philosophy-kognilab/">Laboratory of Experimental Philosophy „Kognilab”</a>.
 
 My research interests include metaphilosophy, epistemology, philosophy of language, philosophy of mind, and philosophy of cognitive science. In particular I’m interested in the role of intuitions in the philosophical methodology, the relation between philosophical methodology and methodology of science and the concept of a priori knowledge. What connects all of the above is a big question about the impact of the cultural background to the results of philosophical and scientific activity.  
@@ -10,6 +14,7 @@ My research interests include metaphilosophy, epistemology, philosophy of langua
 <br/>
 
 # Current Projects
+
 
 ## Methodological naturalism and the theory of reference
 In my doctoral project I try to determine whether, and if so, to what extent methodological naturalism can be seen as a proper approach to the theory of reference. In order to reach that aim I am analyzing the so-called “intuition-talk” within the theories of reference and whether naturalistic stance on the nature and the epistemological role of intuition fits the role of intuition within the theories of reference. I am heading that project under the supervision of <a target="_blank" href="https://odrowazsypniewska.wixsite.com/home">Joanna Odrowąż-Sypniewska”</a> and Katarzyna Kuś. It is financed by Polish National Centre of Science (NCN) (2021-2024, under the “Preludium” program, total funding 118,000PLN/~31,000$)
