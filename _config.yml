@@ -8,7 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Krzysztof Sękowski
   desc: 
-  email: EMAIL
+  email: k.sekowski@uw.edu.pl
   selfie: assets/1.jpg
 
 # social
@@ -17,7 +17,7 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
   github:
   google_plus:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: @KrzysztofSkows1
   vimeo:
   wordpress:
   youtube:
